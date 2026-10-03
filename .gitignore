@@ -1,0 +1,15 @@
+# Build files
+*.cof
+*.err
+*.HEX
+*.hex
+*.lst
+*.map
+*.O
+*.o
+
+# MPLAB workspace/project generated files
+*.mcs
+*.mcw
+*.pdsprj.*
+Project Backups/
